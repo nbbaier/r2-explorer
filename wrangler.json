@@ -10,9 +10,9 @@
 	},
 	"r2_buckets": [
 		{
-			"binding": "receipts-bucket",
-			"bucket_name": "receipts-bucket",
-			"preview_bucket_name": "receipts-bucket"
+			"binding": "lingbuzz-storage",
+			"bucket_name": "lingbuzz-storage",
+			"preview_bucket_name": "lingbuzz-storage"
 		}
 	],
 	"observability": {
